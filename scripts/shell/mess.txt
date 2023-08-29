@@ -1,0 +1,3 @@
+"lecture env"
+"lecture curi"
+"lecture sup"

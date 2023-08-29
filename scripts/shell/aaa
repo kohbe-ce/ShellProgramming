@@ -1,0 +1,19 @@
+#!/bin/bash
+
+cat << EOF > /root/bin/$1
+#!/bin/bash
+
+# Import
+
+# Variable Definition
+
+# Function Definition
+
+# Code Definition
+
+EOF
+
+chmod 700 /root/bin/$1
+
+banner make:$1
+
